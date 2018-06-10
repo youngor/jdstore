@@ -5,7 +5,7 @@
 
 * `git clone https://github.com/ihower/jdstore.git ihower-jdstore`
 * `cd ihower-jdstore`
-* `bundle`
+* `bundle` （need install nodejs first and gem install uglifier)
 * `rake db:migrate`  
 * `rake db:seed`
 * `rake dev:fake` 这会产生假用户、产品和订单
